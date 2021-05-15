@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main
+{
+  char m,c;
+  m='a';
+  c=m-32;
+  printf("m=%c,c=%c",m,c);
+  pritnf("m=%d,m=%d",m,c);
+  return 0;
+}
